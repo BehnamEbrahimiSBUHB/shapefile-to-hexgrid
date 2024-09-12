@@ -49,9 +49,12 @@ shapefile_path = "path/to/your/shapefile.shp"
 hex_size = 0.05  # Adjust the hexagon size as needed
 output_path = "output/hex_map.topojson" 
 generate_hex_map(shapefile_path, hex_size, output_path)
+```
 
 ## Output
+
 The script will generate a TopoJSON file containing the hexagonal grid map with attributes from the original shapefile. This file can be used for visualization and analysis in mapping libraries like Leaflet, D3.js, or Mapbox.
 
 ## License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
