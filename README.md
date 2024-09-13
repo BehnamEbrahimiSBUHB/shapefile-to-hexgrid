@@ -12,7 +12,20 @@ This Python script converts a shapefile into a hexagonal grid map and saves it a
 ![image](https://github.com/user-attachments/assets/94a188b0-4a4e-4af0-bc4d-22580b8977f5)
 * Welsh Regions, 2022
 ![image](https://github.com/user-attachments/assets/f2d3c9b0-b899-490b-b8a2-cffd800a0ad7)
-
+### 2021
+* Welsh Middle Layer Super Output Areas, 2021
+![image](https://github.com/user-attachments/assets/5c459a7f-a383-4768-9404-f3727f91f540)
+* Welsh Lower Layer Super Output Areas, 2021
+![image](https://github.com/user-attachments/assets/11ed0ff0-d5c8-43aa-9197-d3ca8a0938f4)
+* Welsh Census Output Areas, 2021
+![image](https://github.com/user-attachments/assets/25c63f2b-3697-4198-993a-a7a92e02d02f)
+### 2011
+* Welsh Primary Care Organisations, 2011
+  
+* Welsh Unitary Authorities, 2011
+  
+* Welsh Upper Layer Super Output Areas, 2011
+  
 ## Features
 
 * Generates a hexagonal grid based on user-defined hexagon size.
