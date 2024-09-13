@@ -21,10 +21,11 @@ This Python script converts a shapefile into a hexagonal grid map and saves it a
 ![image](https://github.com/user-attachments/assets/25c63f2b-3697-4198-993a-a7a92e02d02f)
 ### 2011
 * Welsh Primary Care Organisations, 2011
-  
+![image](https://github.com/user-attachments/assets/6e26d949-9a37-45ea-9c99-b7c9b4d8e2c7)
 * Welsh Unitary Authorities, 2011
-  
+![image](https://github.com/user-attachments/assets/a4c675cf-c9de-475d-aef4-aac5526c29e0)
 * Welsh Upper Layer Super Output Areas, 2011
+![image](https://github.com/user-attachments/assets/51b27531-f774-4164-9c50-d5a8d64b43a8)
   
 ## Features
 
