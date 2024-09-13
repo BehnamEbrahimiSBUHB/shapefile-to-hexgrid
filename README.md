@@ -2,9 +2,6 @@
 
 This Python script converts a shapefile into a hexagonal grid map and saves it as a TopoJSON file. It uses GeoPandas for geospatial data processing and TopoJSON for efficient storage and rendering of the hexagonal grid.
 
-## Source
-https://borders.ukdataservice.ac.uk/easy_download.html
-https://datamap.gov.wales/layergroups/geonode:LocalHealthBoards
 
 ![image](https://github.com/user-attachments/assets/13d85bd3-13ae-4432-b52d-ced594a64e96)
 
@@ -86,6 +83,11 @@ generate_hex_map(shapefile_path, hex_size, output_path)
 ## Output
 
 The script will generate a TopoJSON file containing the hexagonal grid map with attributes from the original shapefile. This file can be used for visualization and analysis in mapping libraries like Leaflet, D3.js, or Mapbox.
+
+## Source
+https://borders.ukdataservice.ac.uk/easy_download.html
+
+https://datamap.gov.wales/layergroups/geonode:LocalHealthBoards
 
 ## License
 
