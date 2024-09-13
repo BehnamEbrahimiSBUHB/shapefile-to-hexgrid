@@ -6,8 +6,6 @@ This Python script converts a shapefile into a hexagonal grid map and saves it a
 https://borders.ukdataservice.ac.uk/easy_download.html
 https://datamap.gov.wales/layergroups/geonode:LocalHealthBoards
 
-
-
 ![image](https://github.com/user-attachments/assets/13d85bd3-13ae-4432-b52d-ced594a64e96)
 
 ## Maps
@@ -25,6 +23,9 @@ https://datamap.gov.wales/layergroups/geonode:LocalHealthBoards
 ![image](https://github.com/user-attachments/assets/11ed0ff0-d5c8-43aa-9197-d3ca8a0938f4)
 * Welsh Census Output Areas, 2021
 ![image](https://github.com/user-attachments/assets/25c63f2b-3697-4198-993a-a7a92e02d02f)
+### 2019
+* Primary Care Clusters - 2019
+![image](https://github.com/user-attachments/assets/93b49c0f-aa68-40f6-99c8-fe5f0f69ad4b)
 ### 2011
 * Welsh Primary Care Organisations, 2011
 ![image](https://github.com/user-attachments/assets/6e26d949-9a37-45ea-9c99-b7c9b4d8e2c7)
