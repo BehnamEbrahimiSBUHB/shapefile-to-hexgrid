@@ -4,6 +4,14 @@ This Python script converts a shapefile into a hexagonal grid map and saves it a
 
 ![image](https://github.com/user-attachments/assets/13d85bd3-13ae-4432-b52d-ced594a64e96)
 
+## Maps
+### 2022
+* Welsh Local Authorities, 2022
+![image](https://github.com/user-attachments/assets/eb1d001d-90e3-4e1b-9ad1-b8437b0207a5)
+* Welsh Local Health Boards, 2022
+![image](https://github.com/user-attachments/assets/94a188b0-4a4e-4af0-bc4d-22580b8977f5)
+* Welsh Regions, 2022
+![image](https://github.com/user-attachments/assets/f2d3c9b0-b899-490b-b8a2-cffd800a0ad7)
 
 ## Features
 
