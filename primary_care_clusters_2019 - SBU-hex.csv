@@ -1,0 +1,9 @@
+id,name,q,r,ClusterCod,GPClusterN,PCCs_Clust
+W01000906,Neath Port Talbot 007A,2,1,CC309,Neath,Neath
+W01000900,Neath Port Talbot 014C,2,0,CC301,Afan,Afan
+W01000866,Swansea 019E,1,0,CC306,CityHealth,CityHealth
+W01000860,Swansea 027C,0,0,CC302,BayHealth,BayHealth
+W01000756,Swansea 017B,0,1,CC308,Llwchwr,Llwchwr
+W01000757,Swansea 017C,1,1,CC310,Penderi,Penderi
+W01000754,Swansea 002E,1,2,CC307,Cwmtawe,Cwmtawe
+W01000971,Neath Port Talbot 004G,2,2,CC311,Upper Valleys,Upper Valleys
