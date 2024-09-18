@@ -18,6 +18,9 @@ This Python script converts a shapefile into a hexagonal grid map and saves it a
 ![image](https://github.com/user-attachments/assets/5c459a7f-a383-4768-9404-f3727f91f540)
 * Welsh Lower Layer Super Output Areas, 2021
 ![image](https://github.com/user-attachments/assets/11ed0ff0-d5c8-43aa-9197-d3ca8a0938f4)
+* SBU HEX Grid
+![image](https://github.com/user-attachments/assets/eac2d3d5-2068-4352-b34e-6b89f9a67681)
+
 * Welsh Census Output Areas, 2021
 ![image](https://github.com/user-attachments/assets/25c63f2b-3697-4198-993a-a7a92e02d02f)
 ### 2019
@@ -33,6 +36,8 @@ This Python script converts a shapefile into a hexagonal grid map and saves it a
 ![image](https://github.com/user-attachments/assets/a4c675cf-c9de-475d-aef4-aac5526c29e0)
 * Welsh Upper Layer Super Output Areas, 2011
 ![image](https://github.com/user-attachments/assets/51b27531-f774-4164-9c50-d5a8d64b43a8)
+* HEX Grid SBU
+![image](https://github.com/user-attachments/assets/486316ef-edf2-4320-a64e-5ff1279f00d0)
   
 ## Features
 
